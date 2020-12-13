@@ -55,7 +55,7 @@ class About extends React.Component{
     }
 
     unCheckedStar(){
-        return <span class="fa fa-star"></span>;
+        return <span class="fa fa-star unchecked"></span>;
     }
 }
 

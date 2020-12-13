@@ -4,15 +4,21 @@
     padding: 10px;
     margin: 10px;
     text-align: center;
-    font-size: 14px;
+    font-size: 15px;
 }
 .info{
     background-color: white;
     border-radius: 10px;
     padding: 10px;
     margin: 10px;
+    font-size: 15px;
 }
 .checked {
-    color: orange;
+    color: #157947;
+    margin-left: 2px;
+  }
+  .unchecked {
+    color: rgb(204, 218, 206);
+    margin-left: 2px;
   }
 

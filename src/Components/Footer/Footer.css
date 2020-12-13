@@ -1,20 +1,30 @@
 .footer{
     background-color: white;
-    min-height: 25px;
+    min-height: 28px;
     font-size: 16px;
     color: #00994d;
     font-weight: bold;
 }
 
 .copyright{
-    text-align: center;
+    text-align: left;
 }
 
 .social{
-    text-align: center;
+    text-align: right;
 }
 
 .icons{
     margin-left: 12px;
     cursor: pointer;
 }
+
+@media screen and (max-width: 580px) {
+    .copyright{
+        text-align: center;
+    }
+    
+    .social{
+        text-align: center;
+    }
+  }

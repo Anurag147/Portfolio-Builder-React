@@ -6,7 +6,7 @@ class Header extends React.Component
     render()
     {
         return (
-                <nav className="navbar navbar-inverse ">
+                <nav className="navbar navbar-inverse">
                     <div className="container-fluid">
                       <div className="navbar-header">
                         <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
