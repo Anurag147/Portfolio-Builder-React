@@ -2,11 +2,11 @@ import React from 'react';
 import './Header.css';
 
 class Header extends React.Component
-{
+{//navbar-fixed-top
     render()
     {
         return (
-                <nav className="navbar navbar-inverse navbar-fixed-top">
+                <nav className="navbar navbar-inverse ">
                     <div className="container-fluid">
                       <div className="navbar-header">
                         <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">

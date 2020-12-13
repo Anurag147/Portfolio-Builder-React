@@ -3,43 +3,36 @@
     background-color:white;
 }
 
-.Title{
-    color: royalblue;
-    font-weight: bold;
-    font-size: 18px;
-    margin-left:10px;
-    width: 100%;
-    text-align: center;
-}
 .navbar-inverse{
     background-color: white;
     border-color: white;
 }
 
 .navbar-inverse .navbar-nav>li>a{
-    color: royalblue;
+    color:#00994d;
 }
 
 .navbar-inverse .navbar-nav>li>a:focus, .navbar-inverse .navbar-nav>li>a:hover{
-    color: red;
+    color: grey;
     background-color: white;
 }
 
 .navbar-inverse .navbar-brand:focus, .navbar-inverse .navbar-brand:hover{
-    color: red;
+    color: grey;
     background-color: white;
 }
 
 .navbar-inverse .navbar-brand{
-    color: royalblue;
-    font-size: 24px;
+    color: #00994d;
+    font-size: 20px;
     font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 .navbar-inverse .navbar-toggle:focus, .navbar-inverse .navbar-toggle:hover{
-    background-color: royalblue;
+    background-color: #00994d;
 }
 
 .navbar-toggle{
-    background-color: royalblue;
+    background-color: #00994d;
 }
